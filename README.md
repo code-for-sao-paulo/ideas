@@ -15,3 +15,7 @@ A idéia é montar um mapa sobre onde estão localizadas as ciclovias em São Pa
 ## Intercâmbio de remédios
 
 A idéia é montar um site onde usuários do SUS possam conversar e através da intermediação legal trocar remédios que não usam mais com pessoas que necessitam destes remédios.
+
+## App Cidade Azul
+
+Em conjunto com o pessoal do Cidade Azul (http://cidadeazul.org/) montar um app onde ao passar em algum lugar de SP que tiver um rio enterrado (ou seja, na cidade inteira) fazer um barulhinho de água no celular (uma notificação). Ao clicar na notificação você abre o app e vê o nome do rio no mapa.
