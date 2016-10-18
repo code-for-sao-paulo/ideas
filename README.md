@@ -30,4 +30,6 @@ Em conjunto com o pessoal do Cidade Azul (http://cidadeazul.org/) montar um app 
 
 ## Idéias a amadurecer e verificar viabilidade
 
-TODO
+### baladas: aplicação mostrando a qualidade da balada em um instante
+- lotação
+- qualidade
