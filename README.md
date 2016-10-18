@@ -4,6 +4,10 @@ Aqui estão algumas das idéias que podem ser desenvolvidas pela nossa equipe. S
 
 As sugestões podem ser dadas por comentários no canal de idéias do Slack (https://codeforsaopaulo.slack.com), por aberturas de issues do github de sugestões ou outros contatos (e-mails, hangouts, sinais de fumaça, etc).
 
+## Landing page do Code for São Paulo
+
+Estamos construindo uma página para explicar o que é o Code for São Paulo e explicar como outras pessoas podem nos encontrar e colaborar com os nossos projetos.
+
 ## Na rede do candidato
 
 A idéia é criar uma página onde os eleitores podem monitorar os posts dos candidatos a eleição em São Paulo pelas redes sociais e saber quais são os feedbacks dos seus eleitores sobre as suas postagens.
